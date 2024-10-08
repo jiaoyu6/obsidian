@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "0cc29737205b138a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d94084120dd290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a2b9f1b16e921b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0ba5b3db86de9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d82a857abb807630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "账号密码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16b339d544bdd9a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3843c04579a1964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df7ae5abfc2d5f1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4f0243a999ba216",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "864acd927f646ecd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "47dfa2e2369f15ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "623077c62a593811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2c810cba221c6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "账号密码.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "795a1539137e14c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "账号密码.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4229155861cbc86d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d082135e41c19e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "账号密码.md"
+              }
+            }
+          },
+          {
+            "id": "fcb1e7bb74c6ea1a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d82a857abb807630",
+  "lastOpenFiles": [
+    "配置文件优先级.md",
+    "JPA.md",
+    "obisidian",
+    "maven.md",
+    "未命名.md",
+    "Pasted image 20241002141010.png",
+    "Pasted image 20241002140919.png",
+    "spring 注解.md",
+    "账号密码.md",
+    "docker 命令.md",
+    "().md",
+    "2024-09-07.md",
+    "账号密码.canvas",
+    "未命名.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
+  ]
+}
